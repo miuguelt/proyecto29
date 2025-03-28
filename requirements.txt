@@ -30,3 +30,4 @@ SQLAlchemy==1.4.31
 webencodings==0.5.1
 Werkzeug==2.2.2
 Flask-WTF
+flask_migrate
